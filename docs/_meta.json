@@ -3,5 +3,10 @@
     "text": "typescript",
     "link": "/typescript/intro",
     "activeMatch": "/typescript/"
+  },
+  {
+    "text": "es6",
+    "link": "/es6/intro",
+    "activeMatch": "/es6/"
   }
 ]

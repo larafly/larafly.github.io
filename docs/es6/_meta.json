@@ -1,0 +1,162 @@
+[
+  {
+    "type": "file",
+    "name": "intro",
+    "label": "ECMAScript 6 简介"
+  },
+  {
+    "type": "file",
+    "name": "let",
+    "label": "let 和 const 命令"
+  },
+  {
+    "type": "file",
+    "name": "destructuring",
+    "label": "变量的解构赋值"
+  },
+  {
+    "type": "file",
+    "name": "string",
+    "label": "字符串的扩展"
+  },
+  {
+    "type": "file",
+    "name": "string-methods",
+    "label": "字符串的新增方法"
+  },
+  {
+    "type": "file",
+    "name": "regex",
+    "label": "正则的扩展"
+  },
+  {
+    "type": "file",
+    "name": "number",
+    "label": "数值的扩展"
+  },
+  {
+    "type": "file",
+    "name": "function",
+    "label": "函数的扩展"
+  },
+  {
+    "type": "file",
+    "name": "array",
+    "label": "数组的扩展"
+  },
+  {
+    "type": "file",
+    "name": "object",
+    "label": "对象的扩展"
+  },
+  {
+    "type": "file",
+    "name": "object-methods",
+    "label": "对象的新增方法"
+  },
+  {
+    "type": "file",
+    "name": "operator",
+    "label": "运算符的扩展"
+  },
+  {
+    "type": "file",
+    "name": "symbol",
+    "label": "Symbol"
+  },
+  {
+    "type": "file",
+    "name": "set-map",
+    "label": "Set 和 Map 数据结构"
+  },
+  {
+    "type": "file",
+    "name": "proxy",
+    "label": "Proxy"
+  },
+  {
+    "type": "file",
+    "name": "reflect",
+    "label": "Reflect"
+  },
+  {
+    "type": "file",
+    "name": "promise",
+    "label": "Promise 对象"
+  },
+  {
+    "type": "file",
+    "name": "iterator",
+    "label": "Iterator 和 for...of 循环"
+  },
+  {
+    "type": "file",
+    "name": "generator",
+    "label": "Generator 函数的语法"
+  },
+  {
+    "type": "file",
+    "name": "generator-async",
+    "label": "Generator 函数的异步应用"
+  },
+  {
+    "type": "file",
+    "name": "async",
+    "label": "async 函数"
+  },
+  {
+    "type": "file",
+    "name": "class",
+    "label": "Class 的基本语法"
+  },
+  {
+    "type": "file",
+    "name": "class-extends",
+    "label": "Class 的继承"
+  },
+  {
+    "type": "file",
+    "name": "module",
+    "label": "Module 的语法"
+  },
+  {
+    "type": "file",
+    "name": "module-loader",
+    "label": "Module 的加载实现"
+  },
+  {
+    "type": "file",
+    "name": "style",
+    "label": "编程风格"
+  },
+  {
+    "type": "file",
+    "name": "spec",
+    "label": "读懂规格"
+  },
+  {
+    "type": "file",
+    "name": "async-iterator",
+    "label": "异步遍历器"
+  },
+  {
+    "type": "file",
+    "name": "arraybuffer",
+    "label": "ArrayBuffer"
+  },
+  {
+    "type": "file",
+    "name": "proposals",
+    "label": "最新提案"
+  },
+  {
+    "type": "file",
+    "name": "decorator",
+    "label": "Decorator"
+  },
+  {
+    "type": "file",
+    "name": "reference",
+    "label": "参考链接"
+  }
+]
